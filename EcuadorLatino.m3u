@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,03.4Animal Planet ✅
+http://200.60.124.19:29000/play/a012/index.m3u8
+
 #EXTINF:-1 channel-id="USBD35000180U" tvg-id="USBD35000180U" tvg-chno="4476" tvg-name="Stingray Classic Rock" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20250630T232430SQUARE.png" group-title="Music",Stingray Classic Rock
 https://jmp2.uk/stvp-USBD35000180U
 
