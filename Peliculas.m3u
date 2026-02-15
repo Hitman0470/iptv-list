@@ -1,8 +1,18 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:-1, Canal Prueba
-https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/09/10603/2ev61x5fmgcy_x/master.m3u8?t=RGIIC38imA4dm_sjlrDrjCtcP1AVcJLujEzJRlvcBzE&s=1771119291&e=10800&f=53019878&srv=1070&asn=52468&sp=5500&p=0
 
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2246000,AVERAGE-BANDWIDTH=1925000
-https://vimeos.zip/hls2/02/00007/a5njhcrylyxs_h/index-a1.m3u8?t=QQgvlIq9SxLHhSYDv79pgolhCQicqa871ccY6eaJyIk&s=1771110888&e=43200&v=116726236&srv=s8&i=0.0&sp=0&fr=a5njhcrylyxs&r=e
+########## PELÍCULAS ##########
+#EXTINF:-1, Película - Acción (Español Latino)
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/09/10603/2ev61x5fmgcy_x/index-v1-a2.m3u8?t=RGIIC38imA4dm_sjlrDrjCtcP1AVcJLujEzJRlvcBzE&s=1771119291&e=10800&f=53019878&srv=1070&asn=52468&sp=5500&p=0
+#EXTINF:-1, Película - Acción (Inglés)
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/09/10603/2ev61x5fmgcy_x/index-v1-a1.m3u8?t=RGIIC38imA4dm_sjlrDrjCtcP1AVcJLujEzJRlvcBzE&s=1771119291&e=10800&f=53019878&srv=1070&asn=52468&sp=5500&p=0
+
+########## SERIES ##########
+#EXTINF:-1, Serie - Episodio 1 (Español Latino)
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/09/10603/2ev61x5fmgcy_x/index-v1-a2.m3u8?t=RGIIC38imA4dm_sjlrDrjCtcP1AVcJLujEzJRlvcBzE&s=1771119291&e=10800&f=53019878&srv=1070&asn=52468&sp=5500&p=0
+#EXTINF:-1, Serie - Episodio 1 (Inglés)
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/09/10603/2ev61x5fmgcy_x/index-v1-a1.m3u8?t=RGIIC38imA4dm_sjlrDrjCtcP1AVcJLujEzJRlvcBzE&s=1771119291&e=10800&f=53019878&srv=1070&asn=52468&sp=5500&p=0
+
+########## CANALES ##########
+#EXTINF:-1, Canal Prueba (Master Playlist)
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/09/10603/2ev61x5fmgcy_x/master.m3u8?t=RGIIC38imA4dm_sjlrDrjCtcP1AVcJLujEzJRlvcBzE&s=1771119291&e=10800&f=53019878&srv=1070&asn=52468&sp=5500&p=0
